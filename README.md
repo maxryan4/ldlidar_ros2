@@ -10,6 +10,8 @@ cd ldlidar_ros2_ws/src
 
 git clone  https://github.com/ldrobotSensorTeam/ldlidar_ros2.git
 
+cd ldlidar_ros2
+
 git submodule update --init --recursive
 ```
 ## step 1: system setup
