@@ -8,7 +8,7 @@ mkdir -p ldlidar_ros2_ws/src
 
 cd ldlidar_ros2_ws/src
 
-git clone  https://github.com/ldrobotSensorTeam/ldlidar_ros2.git
+git clone  https://github.com/maxryan4/ldlidar_ros2.git
 
 cd ldlidar_ros2
 
